@@ -1,0 +1,31 @@
+package experiment;
+
+
+
+public class Pinger{
+	
+	
+	
+	void ping(){}
+	
+	
+	void notify()
+	{
+		
+	}
+	
+	
+	
+	void log(){}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
